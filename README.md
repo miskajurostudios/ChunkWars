@@ -1,2 +1,4 @@
 # ChunkWars
-ChunkWars - ČeskoSlovenský Minecraft server.
+Chunkwars - Československý Minecraft server
+
+## Miska Juro Studios X FelajzMC
